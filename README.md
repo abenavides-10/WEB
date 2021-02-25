@@ -13,7 +13,7 @@
         <li>Dark</li>
         <li>Stranger Things</li>
         <li>On_my block</li>
-        <li>Game of Thronees</li>
+        <li>Game offf Thronees</li>
     </ol>
 </body>
 </html>
